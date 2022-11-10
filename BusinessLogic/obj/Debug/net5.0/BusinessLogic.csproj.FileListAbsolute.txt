@@ -1,0 +1,15 @@
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\BusinessLogic\bin\Debug\net5.0\BusinessLogic.deps.json
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\BusinessLogic\bin\Debug\net5.0\BusinessLogic.dll
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\BusinessLogic\bin\Debug\net5.0\ref\BusinessLogic.dll
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\BusinessLogic\bin\Debug\net5.0\BusinessLogic.pdb
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\BusinessLogic\bin\Debug\net5.0\DataAccessLayer.dll
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\BusinessLogic\bin\Debug\net5.0\DataAccessLayer.pdb
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.AssemblyReference.cache
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\BusinessLogic\obj\Debug\net5.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfoInputs.cache
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfo.cs
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.CoreCompileInputs.cache
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.CopyComplete
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\BusinessLogic\obj\Debug\net5.0\BusinessLogic.dll
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\BusinessLogic\obj\Debug\net5.0\ref\BusinessLogic.dll
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\BusinessLogic\obj\Debug\net5.0\BusinessLogic.pdb

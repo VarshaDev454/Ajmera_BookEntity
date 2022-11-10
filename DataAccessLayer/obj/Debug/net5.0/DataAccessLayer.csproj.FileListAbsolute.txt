@@ -1,0 +1,15 @@
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+F:\Dot_Net_Courses\C#_&_.Net_Programming_\AjmeraInfotech_Assessment\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
